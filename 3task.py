@@ -1,14 +1,5 @@
 # 3 - Найти расстояние между двумя точками пространства(числа вводятся через пробел)
 
-# import math
-# point_a1=float(input("Введи координату точки A1: "))
-# point_a2=float(input("Введи координату точки A2: "))
-# point_b1=float(input("Введи координату точки B1: "))
-# point_b2=float(input("Введи координату точки B2: "))
-# solution=((point_b1-point_a1)**2)+((point_b2-point_a2)**2)
-# result = (round(math.sqrt(solution),2))
-# print("Расстояние между точками: ", result)
-
 import math
 
 
